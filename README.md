@@ -93,10 +93,6 @@ Key findings and detailed interpretations are presented in the Jupyter notebook 
 
 ## Sample Visualizations
 
-### Overall ESG Performance
-
-![ESG Overview](images/esg_overview.png)
-
 ### Environmental Performance
 
 ![Environmental Performance](images/environmental.png)
